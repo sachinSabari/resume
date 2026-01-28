@@ -13,8 +13,8 @@ export default function App() {
     phone: "9789463319",
     location: "Coimbatore",
     linkedin: "linkedin.com/in/johnanderson",
-    github: "github.com/johnanderson",
-    website: "johnanderson.dev",
+    github: "https://github.com/sachinSabari",
+    website: "https://sachinsabari-resume-10.vercel.app/",
     avatar: profileImage
   };
 
@@ -65,7 +65,7 @@ export default function App() {
     "Backend": ["Node.js", "Express", "Python",  "RESTful APIs"],
     "Database": ["MongoDB", "SQL", "MySQL"],
     "DevOps": [ "CI/CD", "Jenkins", "Git"],
-    "Tools": ["VS Code", "Postman", "Jira", "Figma"]
+    "Tools": ["VS Code", "Postman","putty", "Jira", "Figma"]
   };
 
   const projects = [
